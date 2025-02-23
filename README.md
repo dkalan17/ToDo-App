@@ -30,6 +30,69 @@ This Python-based To-Do List application combines the simplicity of a traditiona
 
 ### **Steps**  
 1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/ToDoList-App.git
-   cd ToDoList-App
+    ```bash
+    git clone https://github.com/yourusername/ToDoList-App.git
+    cd ToDoList-App 
+    ```
+2. Install the required dependencies:  
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. Run the application:  
+    ```bash
+    python main.py
+    ```
+
+---
+
+## **Configuration**  
+If you want to use a different GPT4All model, simply replace the existing model file in the root folder and update the file path in `main.py`.
+
+---
+
+## **Usage**  
+1. Launch the application.  
+2. Type a main task into the input field and press **Add Task**.  
+3. The app will automatically generate 3 subtasks using GPT4All.  
+4. Check off completed tasks and click **Delete** to remove them from the list.  
+
+---
+
+## **Customization and Development**  
+Feel free to contribute or customize the app to fit your needs:  
+- **UI Tweaks**: Modify the Tkinter interface in `main.py`.  
+- **Model Adjustments**: Update the GPT4All model or change the prompt logic for better subtask suggestions.  
+
+To contribute:  
+1. Fork the repository.  
+2. Create a new branch:  
+    ```bash
+    git checkout -b feature-name
+    ```
+3. Make your changes and commit:  
+    ```bash
+    git commit -m "Description of changes"
+    ```
+4. Push to your fork and submit a pull request.  
+
+---
+
+## **License**  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## **Acknowledgments**  
+- [GPT4All](https://gpt4all.io) for the amazing open-source AI model.  
+- **Tkinter** for providing a simple yet powerful GUI toolkit.  
+
+---
+
+## **Contact**  
+For questions, suggestions, or feedback, feel free to reach out:  
+- GitHub: [yourusername](https://github.com/yourusername)  
+- Email: youremail@example.com  
+
+---
+
+Happy task managing with AI! 🎉
