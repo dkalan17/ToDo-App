@@ -76,12 +76,7 @@ To contribute:
 
 ---
 
-## **License**  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## **Contact**  
-For questions, suggestions, or feedback, feel free to reach out:  
+For questions, suggestions, or feedback:  
 - GitHub: [dkalan17](https://github.com/dkalan17)  
 - Email: [domenkalan17@gmail.com](domenkalan17@gmail.com)
