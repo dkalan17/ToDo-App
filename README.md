@@ -1,4 +1,4 @@
-# **AI-Powered To-Do List App**  
+# **To-Do List App With AI Integration**  
 **Task Management with GPT4All Integration**  
 
 ![Screenshot](IMAGES/screenshot.png)  
